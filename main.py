@@ -10,7 +10,7 @@ if __name__ == '__main__':
     gpio.write(pin.ADC1, pin.HIGH)
 
     while True:
-        state = int(gpio.read(GPIO_INPUT.ADC5)
+        state = int(gpio.read(GPIO_INPUT.ADC5))
 
         if(state):
             gpio.write(pin.ADC0, pin.HIGH)
