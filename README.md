@@ -2,10 +2,10 @@
 Traffic light code for the physical traffic lights. Digital Design Worksheet 3
 
 A circuit diagram showing how the board works  
-<img src="diagrams/circuit.png" alt="Circuit diagram" width="400"/>
+<img src="images/circuit.png" alt="Circuit diagram" width="400"/>
 
 A state diagram showing how it functions  
-<img src="diagrams/state-diagram.jpg" alt="State diagram" width="400"/>
+<img src="images/state-diagram.jpg" alt="State diagram" width="400"/>
 
 A close up image of the board  
 <img src="images/close.jpg" alt="Close up of the board" width="400"/>
