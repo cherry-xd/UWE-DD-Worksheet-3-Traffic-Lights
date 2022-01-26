@@ -11,6 +11,9 @@ A circuit diagram showing how the board works
 A state diagram showing how it functions  
 <img src="images/state-diagram.jpg" alt="State diagram" width="400"/>
 
+A state diagram for the toggle script showing how it functions  
+<img src="images/state-diagram-toggle.jpg" alt="State diagram" width="400"/>
+
 A close up image of the board  
 <img src="images/close.jpg" alt="Close up of the board" width="400"/>
 
