@@ -11,7 +11,7 @@ State diagrams showing how the two script files function
 
 A full image of the board along with the circuit diagram to explain what is happening  
 <img src="images/circuit.png" alt="Circuit diagram" width="400"/>
-<img src="images/full.jpg" alt="Full image of the board" width="400"/>
+<img src="images/board.jpg" alt="Full image of the board" width="400"/>
 
 The lights on the board lit up  
 <img src="images/green.jpg" alt="Green light" width="400"/>
